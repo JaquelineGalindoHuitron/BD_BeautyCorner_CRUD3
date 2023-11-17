@@ -44,10 +44,10 @@ CREATE TABLE `servicios` (
 --
 
 INSERT INTO `servicios` (`id`, `nomServicio`, `descripcion`, `idempleado`, `direccion`, `telefono`, `precio`, `iva`, `disponible`) VALUES
-(1, 'Gelish Pastel', 'En color pastel', '1', 'Nueva Zelanda 7870', 2147483647, '500.00', '0.00', 22),
-(2, 'Extenciones BC', 'De buena calidad', '4', 'Nueva Zelanda 7870', 2147483647, '5000.00', '0.00', 28),
-(3, 'Manicure exfo', 'Incluye exfoliación', '7', 'Nueva Zelanda 7870', 2147483647, '300.00', '0.00', 67),
-(4, 'Tratamiento Capilar', 'Productos Confiables', '7', 'Nueva Zelanda 7870', 2147483647, '6300.00', '0.00', 55);
+(1, 1, 'Gelish Pastel', '1', 'Nueva Zelanda 7870', 2147483647, '500.00', '0.00', 22),
+(2, 2, 'Extensiones', '4', 'Nueva Zelanda 7870', 2147483647, '5000.00', '0.00', 28),
+(3, 3, 'Manicure', '7', 'Nueva Zelanda 7870', 2147483647, '300.00', '0.00', 67),
+(4, 4, 'Tratamiento Capilar', '7', 'Nueva Zelanda 7870', 2147483647, '6300.00', '0.00', 55);
 
 -- --------------------------------------------------------
 
