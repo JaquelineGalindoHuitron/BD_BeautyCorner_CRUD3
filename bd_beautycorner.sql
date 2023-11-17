@@ -47,7 +47,7 @@ INSERT INTO `servicios` (`id`, `nomServicio`, `descripcion`, `idempleado`, `dire
 (1, 'Gelish Pastel', 'En color pastel', '1', 'Nueva Zelanda 7870', 2147483647, '500.00', '0.00', 22),
 (2, 'Extenciones BC', 'De buena calidad', '4', 'Nueva Zelanda 7870', 2147483647, '5000.00', '0.00', 28),
 (3, 'Manicure exfo', 'Incluye exfoliación', '7', 'Nueva Zelanda 7870', 2147483647, '300.00', '0.00', 67),
-(16, 'Gelish Pastel', 'En color pastel', '7', 'Calle Desierto de mojave', 2147483647, '6332.15', '0.00', 155);
+(4, 'Tratamiento Capilar', 'Productos Confiables', '7', 'Nueva Zelanda 7870', 2147483647, '6300.00', '0.00', 55);
 
 -- --------------------------------------------------------
 
