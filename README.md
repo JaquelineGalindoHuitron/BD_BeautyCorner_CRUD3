@@ -10,11 +10,11 @@ Tablas Servicios, Ventas, Servicios Vendidos
 
 
 ## Tabla Ventas
-![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/tv.png)
-![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/2.png)
+![tablaventas](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/assets/143548375/ecb99325-7870-439b-ab6d-3c1c85cf1474)
+![tablaventas](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/2.png)
 
 
 ## Tabla Servicios Vendidos
-![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/ventas.png)
-![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/3.png)
+![tablaserviciosv](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/ventas.png)
+![tablaserviciosv](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/3.png)
 
