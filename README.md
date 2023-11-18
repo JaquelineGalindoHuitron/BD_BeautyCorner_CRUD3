@@ -2,7 +2,7 @@
 Tablas Servicios, Ventas, Servicios Vendidos
 
 ## Base de datos en phpmyadmin
-![basededatos](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/bd.png)
+![basededatos](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/assets/143548375/5916d8e0-79a0-4338-aeb1-7dce92a37956)
 
 ## Tabla de Servicios
 ![tablaservicios](https://github.com/JaquelineGalindoHuitron/BD_BeautyCorner_CRUD3/blob/main/inicio.png)
